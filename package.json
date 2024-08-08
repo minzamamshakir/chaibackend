@@ -1,0 +1,22 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "Youtube Clone with Sir Hitesh",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Chai",
+    "Code",
+    "YoutubeClone",
+    "SirHitesh"
+  ],
+  "author": "Inzamam Shakir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
