@@ -1,17 +1,16 @@
 {
-  "name": "chaibackend",
+  "name": "backendsetup",
   "version": "1.0.0",
-  "description": "Youtube Clone with Sir Hitesh",
+  "description": "Backend Project Setup",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "keywords": [
-    "Chai",
+    "backend",
     "Code",
-    "YoutubeClone",
-    "SirHitesh"
+    "backendsetup"
   ],
   "author": "Inzamam Shakir",
   "license": "ISC",
